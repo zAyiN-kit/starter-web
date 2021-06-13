@@ -11,3 +11,6 @@ SHALALALALALA Mojito with Lime, MiMoSa, Pinacolada
 ##Deployment
 
 ##How to Contribute
+
+##COPYRIGHT
+2021
